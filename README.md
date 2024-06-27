@@ -1,5 +1,5 @@
 # CBTCIP
-# Data Science Virtual Internship at CipherByte
+# Data Science Virtual Internship at CipherByte Technologies
 
 This repository contains the work done as part of the virtual internship program at CipherByte Technologies. The tasks completed during this internship are focused on various aspects of data science including classification, time series analysis, and spam detection.
 
